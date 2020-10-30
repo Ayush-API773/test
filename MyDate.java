@@ -14,7 +14,7 @@ public class MyDate
    
    public static void main(String args[])
    {
-    Demodt d=new Demodt();
+    MyDate d=new MyDate();
     d.display();
 
    }
